@@ -12,12 +12,16 @@ This repository provides datasets and code for preprocessing, training and testi
 
 
 ## Basic demo
-The following command installs all necessary packages:
-```
-pip install -r requirements.txt
-```
-The project was tested using Python 3.6.6.
 
+For basic demo, please following instruction  
+
+
+1. Clone the git repository
+```
+git clone https://github.com/saemee007/GP-VAE.git
+```
+2. Move `GP-VAE/models/pg/notebook/Group2-basic-02.ipynb` into your google drive.  
+3. Run `Group-basic-01.ipynb` file
 
 ## Datasets
 1. **Twitter URL** includes `trn/val/tst.tsv`, which has the following format in each line:
